@@ -1,4 +1,4 @@
-If you use our code in your publication, please cite the above paper.
+If you use our code in your publication, please cite the following paper:
 
 @article{zou2025novel,
   
